@@ -8,7 +8,7 @@
  * *                                         *
  * *       Thank you for run my code.        *
  * *                                         *
- * *                - Maz                    *
+ * *                - Beauty Scribbles                    *
  * *                                         *
  * ******************************************/
 
