@@ -42,16 +42,10 @@ settingsButton.onclick = function () {
 if (settings.className == "hide")
 settings.className = "show";
 else
-	//
-	//                                                                                                                         settings.className = "hide";
-	//
-	//
-	//
-	//                                                                                                                                 if (this.className == "fa fa-cog rotateoff") 
-	//
-	//                                                                                                                                             this.className = "fa fa-cog rotateon";
-	//
-	//                                                                                                                                                     else 
+                                                                     settings.className = "hide";
+if (this.className == "fa fa-cog rotateoff") 
+this.className = "fa fa-cog rotateon";
+else 
 	//
 	//                                                                                                                                                                 this.className = "fa fa-cog rotateoff";
 	//
