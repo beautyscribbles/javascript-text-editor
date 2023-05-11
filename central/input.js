@@ -1,16 +1,3 @@
-/******************************************
- * *                                         *
- * *    Made by: @Maz © 2017                 *
- * *    Title: Javascript Text Editor        *  
- * *    Extra Credits: @The Coding Sloth,    *
- * *    @Gami, @Davye                        *
- * *                                         *
- * *       Thank you for run my code.        *
- * *                                         *
- * *                - Maz                    *
- * *                                         *
- * ******************************************/
-
 onload = function () 
 
 {
