@@ -46,10 +46,9 @@ else
 if (this.className == "fa fa-cog rotateoff") 
 this.className = "fa fa-cog rotateon";
 else 
-	//
-	//                                                                                                                                                                 this.className = "fa fa-cog rotateoff";
-	//
-	//                                                                                                                                                                     }
+
+this.className = "fa fa-cog rotateoff";
+}
 	//
 	//
 	//
