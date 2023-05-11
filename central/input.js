@@ -18,36 +18,22 @@ onload = function ()
 
 
 
-	    // Send Code to Eval
-	//
-	//     submit.onclick = function () { 
-	//
-	//             eval( "" + statements.value + "" ) 
-	//
-	//                 }
-	//
-	//
-	//
-	//                     // Change Font Size
-	//
-	//                         fontSize.onchange = function () {
-	//
-	//                                 statements.style.fontSize = fontSize.value;
-	//
-	//                                     }
-	//
-	//
-	//
-	//                                         // Change Font Color
-	//
-	//                                             fontColor.onchange = function () {
-	//
-	//                                                     statements.style.color = fontColor.value;
-	//
-	//                                                         }
-	//
-	//
-	//
+//Send Code to Eval
+submit.onclick = function () { 
+eval( "" + statements.value + "" ) 
+}
+
+// Change Font Size
+fontSize.onchange = function () {
+statements.style.fontSize = fontSize.value;
+}
+
+// Change Font Color
+fontColor.onchange = function () {
+statements.style.color = fontColor.value;
+}
+
+
 	//                                                             theme.onchange = function () {
 	//
 	//                                                                     statements.style.backgroundColor = theme.value;
