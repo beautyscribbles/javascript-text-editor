@@ -34,23 +34,14 @@ statements.style.color = fontColor.value;
 }
 
 
-	//                                                             theme.onchange = function () {
-	//
-	//                                                                     statements.style.backgroundColor = theme.value;
-	//
-	//                                                                         }
-	//
-	//
-	//
-	//                                                                             // Toggle Settings
-	//
-	//                                                                                 settingsButton.onclick = function () {
-	//
-	//                                                                                         if (settings.className == "hide")
-	//
-	//                                                                                                     settings.className = "show";
-	//
-	//                                                                                                             else
+theme.onchange = function () {
+statements.style.backgroundColor = theme.value;
+}
+                                                                     // Toggle Settings
+settingsButton.onclick = function () {
+if (settings.className == "hide")
+settings.className = "show";
+else
 	//
 	//                                                                                                                         settings.className = "hide";
 	//
