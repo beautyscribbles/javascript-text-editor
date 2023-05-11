@@ -49,7 +49,3 @@ else
 
 this.className = "fa fa-cog rotateoff";
 }
-	//
-	//
-	//
-	//                                                                                                                                                                     }
