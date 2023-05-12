@@ -2,19 +2,19 @@ onload = function ()
 
 {
 
-	    var statements = document.getElementsByTagName("textarea")[0];
+  var statements = document.getElementsByTagName("textarea")[0];
 
-	    var submit = document.getElementsByTagName("button")[0];
+  var submit = document.getElementsByTagName("button")[0];
 
-	    var fontSize = document.getElementById("set-size");
+  var fontSize = document.getElementById("set-size");
 
-	    var fontColor = document.getElementById("set-color");
+  var fontColor = document.getElementById("set-color");
 
-	    var theme = document.getElementById("set-theme");
+  var theme = document.getElementById("set-theme");
 
-	    var settings = document.getElementById("settings");
+  var settings = document.getElementById("settings");
 
-	    var settingsButton = document.getElementById("settings-button");
+  var settingsButton = document.getElementById("settings-button");
 
 
 
